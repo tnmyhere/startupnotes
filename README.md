@@ -1,2 +1,2 @@
-# startupnotes
-Notes from Stanford's CS 183B course on startup advice.
+# Startup Notes
+A growing collection of synthesized notes on building startups, primarily sourced from Y Combinator lectures, founder interviews, and startup resources.
